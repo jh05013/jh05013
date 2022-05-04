@@ -2,9 +2,9 @@
 - [KAIST Concurrency and Parallelism Lab](https://cp.kaist.ac.kr/)
 
 # Problem Solving
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jh05013)](https://solved.ac/jh05013)
+![jh05013's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=jh05013)
 - [Baekjoon Online Judge](https://www.acmicpc.net/user/jh05013)
+- [solved.ac](https://solved.ac/profile/jh05013)
 - [Library](https://github.com/jh05013/BOJ_algorithms)
 
 <!--
